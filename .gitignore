@@ -1,0 +1,39 @@
+# ==============================
+# General
+# ==============================
+.DS_Store
+Thumbs.db
+*.log
+*.env
+*.tmp
+*.swp
+
+# ==============================
+# Frontend: cloudsharewebapp
+# ==============================
+cloudsharewebapp/node_modules/
+cloudsharewebapp/dist/
+cloudsharewebapp/build/
+cloudsharewebapp/.parcel-cache/
+cloudsharewebapp/.cache/
+cloudsharewebapp/.next/
+
+# ==============================
+# Backend: cloudshareapi (Java/Maven)
+# ==============================
+cloudshareapi/target/
+cloudshareapi/*.class
+cloudshareapi/*.log
+cloudshareapi/.idea/
+cloudshareapi/*.iml
+cloudshareapi/.mvn/
+cloudshareapi/out/
+cloudshareapi/bin/
+
+# ==============================
+# Optional: IDEs
+# ==============================
+.vscode/
+*.code-workspace
+*.sublime-workspace
+*.sublime-project
