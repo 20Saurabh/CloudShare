@@ -2,7 +2,18 @@
 
 This complete project includes **React**, **Spring Boot**, **MongoDB**, and **Tailwind CSS** to help you build a professional-grade **file manager web app**.
 
----
+## Table of Contents
+
+1. [Features](#features)  
+2. [Tech Stack](#tech-stack)  
+3. [Installation Guide](#installation-guide)  
+   - [Step 1: Setup Database](#step-1-setup-database)  
+   - [Step 2: Setup Clerk Authentication](#step-2-setup-clerk-authentication)  
+   - [Step 3: Setup Razorpay](#step-3-setup-razorpay)  
+   - [Step 4: Backend Setup](#step-4-backend-setup)  
+   - [Step 5: Frontend Setup](#step-5-frontend-setup)  
+
+
 
 ## Features
 
@@ -16,7 +27,7 @@ With this project, you'll learn to:
 - Build a responsive, modern UI using **Tailwind CSS** and **Lucide icons**
 - Follow clean code structure with reusable components (e.g., `FileCard`, `FileListRow`)
 
----
+
 
 ## Tech Stack
 
@@ -24,17 +35,8 @@ With this project, you'll learn to:
 - **Backend:** Spring Boot  
 - **Database:** MongoDB  
 - **Authentication:** Clerk  
-- **Payments:** Razorpay  
+- **Payments:** Razorpay   
 
----
-
-## Perfect For
-
-- Developers building a portfolio project  
-- Freelancers creating custom file managers  
-- Students learning full-stack development  
-
----
 
 ## Installation Guide
 
